@@ -56,3 +56,7 @@ Brief outline of Ascencion Idle
       - Ignore it?
       - Just remove cupid's arrow/whatever? (This would actually increase general variability)
       - Maybe just implement some level of behavior: people will marry / are attracted to people with similar traits
+# Dev List
+## Basics:
+First, we need to generate a village full of people with stats and whatnot, and be able to similate some time. We also need to start adding the messaging functionality (probably a global singleton)
+
